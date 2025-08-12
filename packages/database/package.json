@@ -27,7 +27,7 @@
     "@prisma/extension-accelerate": "1.2.1",
     "dotenv-cli": "7.4.4",
     "@formbricks/logger": "workspace:*",
-    "zod-openapi": "4.2.3"
+    "zod-openapi": "5.3.1"
   },
   "devDependencies": {
     "@formbricks/config-typescript": "workspace:*",
